@@ -1,2 +1,2 @@
 # Exercicios-em-Python-2
-Exercicios em Python para treinar
+Olá!!! aqui você vai encontrar 35 exercicios em PTYHON para quem está aprendendo.
